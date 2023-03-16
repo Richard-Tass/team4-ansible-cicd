@@ -14,7 +14,7 @@ pipeline {
              
           }
         }
-         stage('Tools Init') {
+         stage('Tools Innit') {
             steps {
                 script {
                     echo "PATH = ${PATH}"
